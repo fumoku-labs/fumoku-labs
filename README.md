@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-url-here.png" width="120" alt="Fumoku Labs Logo" />
+  <img src="Assets/Logo/Studio Logo with text (horizontal)_png_bg_white.png" alt="Fumoku Labs Logo" />
 </p>
 
 <h1 align="center">Fumoku Labs</h1>
