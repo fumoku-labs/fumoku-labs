@@ -45,7 +45,7 @@ Fumoku Labs is currently developed as a **solo indie studio**, with the freedom 
 ---
 
 ### 🔗 Links & Contact
-- 🌐 Website: _Coming soon_  
+- 🌐 Website: https://fumoku-labs.github.io/fumoku-labs/  
 - 📩 Contact: dmkn.nusantara@gmail.com  
 
 ---
