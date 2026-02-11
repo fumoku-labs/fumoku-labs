@@ -77,6 +77,27 @@ h1 {
   line-height: 1.6;
 }
 
+.game-card {
+  border: none;
+}
+
+.game-card h4 {
+  font-weight: 700;
+  color: #6174A2;
+}
+
+.game-card p {
+  color: #6174A2;
+}
+
+.game-card .card-btn {
+  text-decoration: none;
+  color: #6174A2;
+  border: 1px solid #6174A2;
+  padding: 10px;
+  border-radius: 25px;
+}
+
 .coming-soon-card {
   background: linear-gradient(135deg, #ecf3ff 0%, #b1c6ff 50%, #94bfff 100%);
   border-radius: 20px;
@@ -96,6 +117,11 @@ h1 {
   font-size: 2rem;
   font-weight: 700;
   text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+}
+
+.coming-soon-badge {
+  font-size: medium;
+  border-top: 1px solid white;
 }
 
 .contact-container {
